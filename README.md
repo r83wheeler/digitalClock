@@ -13,3 +13,4 @@
 
 6. Display the current time (the setInterval() method will execute the function once every 1 second, just like a digital watch.)
 
+# test
