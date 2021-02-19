@@ -9,8 +9,10 @@
 
 4. Create main.js file for the website functionality
 
-5. Use Date() to create a new date object
+5. Create a currentTime function
+Use Date() to create a new date object
 
-6. Display the current time (the setInterval() method will execute the function once every 1 second, just like a digital watch.)
+6. Display the current time in the div id "clock" (the setInterval() method will execute the function once every 1 second, just like a digital watch.)
+
 
 # test
