@@ -3,6 +3,7 @@
 1. Create a webpage that displays the current time, in digital clock format. 
 
 2. Design the clock in HTML
+    1. Create a div for the clock
 
 3. Add style using CSS to the digital clock
 
